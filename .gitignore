@@ -285,3 +285,6 @@ TSWLatexianTemp*
 
 # VS Code 
 .DS_Store
+
+# custom 
+*.ipynb
