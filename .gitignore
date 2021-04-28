@@ -287,5 +287,4 @@ TSWLatexianTemp*
 .DS_Store
 
 # custom 
-*.ipynb
-.ipynb_checkpoints_/
+.ipynb_checkpoints/
