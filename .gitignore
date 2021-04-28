@@ -288,3 +288,4 @@ TSWLatexianTemp*
 
 # custom 
 *.ipynb
+.ipynb_checkpoints_/
